@@ -1,11 +1,12 @@
 <img src="https://media.giphy.com/media/GbNb7SVG0TcDxTFy6A/giphy.gif" width="300px">
 <em><b>I am Pratul Maurya & Welcome to my GitHub profile</b></em><br><br>
-<b><b>Something about</b> <img src="https://media.giphy.com/media/J4bOqeJErzOJlJ9bOb/giphy.gif" height="90" ALIGN="middle">&nbsp;</b>
+<b><b>Something about</b> <img src="https://media.giphy.com/media/J4bOqeJErzOJlJ9bOb/giphy.gif" height="60" ALIGN="middle">&nbsp;</b>
 
-<p><img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="35"> I’m currently working on some of my cyber-sec side projects. <br>
+<b><img src="https://media.giphy.com/media/29LckIukRIDOIvjqjh/giphy.gif" width="35"> Cyber-Security Researcher, working on network security & pentesting. <br>
+<img src="https://media.giphy.com/media/gjxYwnMG7Mocmc75DM/giphy.gif" width="35"> Currently I'm a third year student from VIT Bhopal in Computer Science with specialization in Cyber-Security & Digital Forensics  
+<img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="35"> I’m currently working on some of my cyber-sec side projects. <br>
 <img src="https://media.giphy.com/media/0PGtnC8f4AYoozjq4O/giphy.gif" width="35"> I’m currently learning DSA. <br>
-<img src="https://media.giphy.com/media/gF2m2JOyGReppog8hU/giphy.gif" width="35"> I’m looking to collaborate on any open source project. <br>
-😄 Pronouns: He/Him<br></p>
+<img src="https://media.giphy.com/media/gF2m2JOyGReppog8hU/giphy.gif" width="35"> I’m looking to collaborate on any open source project. <br></b>
 
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
