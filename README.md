@@ -8,7 +8,7 @@
 <img src="https://media.giphy.com/media/0PGtnC8f4AYoozjq4O/giphy.gif" width="35"> I’m currently learning DSA. <br>
 <img src="https://media.giphy.com/media/gF2m2JOyGReppog8hU/giphy.gif" width="35"> I’m looking to collaborate on any open source project. <br></b>
 
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+<img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
 
 
