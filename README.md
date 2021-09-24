@@ -17,7 +17,7 @@
 <br><br><br><br><br><br><br>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <em><b>I love to connect with different people so if you want to say hi, I'll be happy to talk to you!</b> 😃</em><br><br><br>
-<img src="https://komarev.com/ghpvc/?username=pratul-maurya&color=8B34D7&style=flat-square" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=pratul-maurya&color=C70039&style=flat-square" alt="watching_count" />
 <!--
 **pratul-maurya/pratul-maurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
