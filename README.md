@@ -3,7 +3,7 @@
 <b><b>Something about</b> <img src="https://media.giphy.com/media/J4bOqeJErzOJlJ9bOb/giphy.gif" height="55" ALIGN="middle">&nbsp;</b>
 
 <b><img src="https://media.giphy.com/media/29LckIukRIDOIvjqjh/giphy.gif" width="35"> Cyber-Security Researcher, working on network security & pentesting. <br>
-<img src="https://media.giphy.com/media/gjxYwnMG7Mocmc75DM/giphy.gif" width="35"> Currently I'm a third year student from VIT Bhopal in Computer Science with specialization in Cyber-Security & Digital Forensics  
+<img src="https://media.giphy.com/media/gjxYwnMG7Mocmc75DM/giphy.gif" width="35"> Currently I'm a fourth year student from VIT Bhopal in Computer Science with specialization in Cyber-Security & Digital Forensics  
 <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="35"> I’m currently working on some of my cyber-sec side projects. <br>
 <img src="https://media.giphy.com/media/0PGtnC8f4AYoozjq4O/giphy.gif" width="35"> I’m currently learning DSA. <br>
 <img src="https://media.giphy.com/media/gF2m2JOyGReppog8hU/giphy.gif" width="35"> I’m looking to collaborate on any open source project. <br></b><br>
